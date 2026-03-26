@@ -1,4 +1,4 @@
-### Smart Energy Consumption Prediction using TensorFlow
+# Smart Energy Consumption Prediction using TensorFlow
 ## Project Overview
 
 This project predicts household energy consumption using a neural network built with TensorFlow and Keras.
